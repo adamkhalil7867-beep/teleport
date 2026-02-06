@@ -1,0 +1,5 @@
+{
+  "name": "Auto Clicker Simulator",
+  "description": "A web application that simulates automatic mouse clicks based on user-defined criteria. Configure click interval, total clicks, and watch it go! Ideal for testing and demonstration purposes within a browser environment.",
+  "requestFramePermissions": []
+}
